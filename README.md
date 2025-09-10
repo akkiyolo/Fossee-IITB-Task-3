@@ -121,4 +121,25 @@ jupyter notebook notebooks/model_evaluation.ipynb
 
 ---
 
+## ---
+
+📊 Scoring Rubric (summary)
+
+Model	Accuracy	Interpretability	Pedagogical Value	Overall
+
+CodeBERT	4.3	3.3	2.0	3.2
+CodeLlama	4.0	4.7	5.0	4.6
+
+
+CodeBERT → great raw error detection, weak pedagogy
+
+CodeLlama → excellent reflective feedback, very student-friendly
+
+Hybrid → best of both worlds 🏆
+
+
+
+---
+
+
 
