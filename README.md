@@ -150,3 +150,24 @@ The project uses a 0–5 rubric with three criteria:
 - Build an API + front-end demo with interactive hinting and teacher dashboards.
 
 ---
+
+## 📜 License & Credits
+
+License: MIT — see LICENSE
+
+Author: Akshat Shukla
+
+Credits: Hugging Face, Meta AI (CodeLlama), Microsoft (CodeBERT)
+
+
+
+---
+
+## 📧 Contact
+
+👤 Akshat Shukla
+🔗 GitHub: akkiyolo
+📩 Email: akshatshukla069@gmail.com
+
+
+---
