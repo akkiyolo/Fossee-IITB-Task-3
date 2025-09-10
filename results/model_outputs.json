@@ -1,0 +1,20 @@
+{
+  "CodeBERT": {
+    "beginner_examples": "Detected missing colon in loop",
+    "intermediate_examples": "Identified missing base case in recursion",
+    "advanced_examples": [
+      "Infinite recursion risk due to incorrect stopping condition in power()",
+      "Class definition error: missing _init_ and variable declaration",
+      "Decorator misuse: wrapper ignores arguments when calling function"
+    ]
+  },
+  "CodeLlama": {
+    "beginner_examples": "Suggested asking student why colon is necessary",
+    "intermediate_examples": "Prompted student: 'What happens when n=0?'",
+    "advanced_examples": [
+      "Asked reflective question: 'What should happen when exponent equals 0?'",
+      "Suggested prompt: 'How does Python know what attributes a class has without _init_?'",
+      "Hinted at decorator misuse: 'What arguments are passed to add() inside the wrapper?'"
+    ]
+  }
+}
