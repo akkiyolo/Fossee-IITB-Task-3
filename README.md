@@ -67,8 +67,8 @@ student-competence-analysis-with-Open-Source-Models
 ├── README.md                      
 ├── research_plan.md
 ├── reasoning.md
-├── whitepaper/
-│   └── CodeBERT_CodeLlama_WhitePaper.docx
+├── CodeBERT_CodeLlama_WhitePaper.pdf
+│   
 ├── models/
 │   ├── codebert_notes.md
 │   ├── codellama_notes.md
@@ -171,5 +171,6 @@ Credits: Hugging Face, Meta AI (CodeLlama), Microsoft (CodeBERT)
 
 
 ---
+
 
 
