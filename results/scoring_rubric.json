@@ -1,0 +1,41 @@
+{
+  "criteria": {
+    "accuracy": "How well the model detects real errors or misconceptions (0-5)",
+    "interpretability": "How clear and understandable the model’s feedback is (0-5)",
+    "pedagogical_value": "How well the feedback encourages deeper learning without giving direct solutions (0-5)"
+  },
+  "CodeBERT": {
+    "beginner": {
+      "accuracy": 5,
+      "interpretability": 4,
+      "pedagogical_value": 2
+    },
+    "intermediate": {
+      "accuracy": 4,
+      "interpretability": 3,
+      "pedagogical_value": 2
+    },
+    "advanced": {
+      "accuracy": 4,
+      "interpretability": 3,
+      "pedagogical_value": 2
+    }
+  },
+  "CodeLlama": {
+    "beginner": {
+      "accuracy": 4,
+      "interpretability": 5,
+      "pedagogical_value": 5
+    },
+    "intermediate": {
+      "accuracy": 4,
+      "interpretability": 5,
+      "pedagogical_value": 5
+    },
+    "advanced": {
+      "accuracy": 4,
+      "interpretability": 4,
+      "pedagogical_value": 5
+    }
+  }
+}
