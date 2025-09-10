@@ -132,7 +132,21 @@ The project uses a 0–5 rubric with three criteria:
 
 ---
 
+## ⚖️ Limitations & ethical considerations
+
+- Hallucinations and overconfident answers occasionally occur; models can miss reasoning nuance.
+- Resource constraints: Large CodeLlama variants need GPUs. Plan costs before deployment.
+- Pedagogical risk: Over-reliance on AI for grading/feedback can reduce instructor oversight. Use the system as a scaffold.
+- Privacy: If you collect student submissions, ensure consent & data protection (FERPA/GDPR as applicable).
 
 
+---
 
+## 🔮 Future work
 
+- Fine-tune CodeLlama on real student error corpora to improve hint precision.
+- Add more SOTA comparative baselines (e.g., StarCoder, GPT-NeoX) while preserving open-source deployment.
+- Run user studies with students & instructors to measure learning impact.
+- Build an API + front-end demo with interactive hinting and teacher dashboards.
+
+---
