@@ -1,13 +1,8 @@
-﻿# 🔥 Student Competence Analysis — CodeBERT & CodeLlama  
+﻿# 🔥 Student Competence Analysis — with-Open-Source-AI-Models
 *AI-powered feedback system for Python learning*  
 *Author:* Akshat Shukla  
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)  
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)  
-![Models](https://img.shields.io/badge/Models-CodeBERT%20%7C%20CodeLlama-orange?style=for-the-badge)  
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?style=for-the-badge&logo=jupyter)  
-![Hugging Face](https://img.shields.io/badge/🤗-HuggingFace-yellow?style=for-the-badge)  
-![Papers With Code](https://img.shields.io/badge/Papers%20With%20Code-Research-green?style=for-the-badge&logo=paperswithcode)  
+<img width="600" height="230" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxv4QqvKTYngv5f9WfjGdhikHDOFYNVxHmg&s" />
 
 ---
 
@@ -171,6 +166,7 @@ Credits: Hugging Face, Meta AI (CodeLlama), Microsoft (CodeBERT)
 
 
 ---
+
 
 
 
