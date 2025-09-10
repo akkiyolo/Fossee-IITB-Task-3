@@ -20,16 +20,16 @@ This repository contains:
 ---
 
 ## 📖 Table of Contents
-- [Why this project](#why-this-project)  
-- [Highlights / Features](#highlights--features)  
-- [Repo layout (complete)](#repo-layout-complete)  
-- [Quickstart — run everything locally](#quickstart--run-everything-locally)  
-- [Design decisions & reproducibility notes](#design-decisions)  
-- [Scoring Rubric (summary)](#scoring-rubric-summary)  
-- [Limitations & ethical considerations](#limitations--ethical-considerations)  
-- [Future work](#future-work)  
-- [License & credits](#license--credits)  
-- [Contact](#contact)  
+- [Why this project](#-why-this-project)  
+- [Highlights / Features](#-highlights--features)  
+- [Repo layout (complete)](#-repo-layout-complete)  
+- [Quickstart — run everything locally](#-quickstart--run-everything-locally)  
+- [Design decisions & reproducibility notes](#-design-decisions--reproducibility-notes)  
+- [Scoring Rubric (summary)](#-scoring-rubric-summary)  
+- [Limitations & ethical considerations](#️-limitations--ethical-considerations)  
+- [Future work](#-future-work)  
+- [License & credits](#-license--credits)  
+- [Contact](#-contact)
 
 ---
 
@@ -167,6 +167,7 @@ Credits: Hugging Face, Meta AI (CodeLlama), Microsoft (CodeBERT)
 
 
 ---
+
 
 
 
