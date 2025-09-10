@@ -121,9 +121,7 @@ jupyter notebook notebooks/model_evaluation.ipynb
 
 ---
 
-## ---
-
-📊 Scoring Rubric (summary)
+## 📊 Scoring Rubric (summary)
 
 Model	Accuracy	Interpretability	Pedagogical Value	Overall
 
@@ -140,6 +138,7 @@ Hybrid → best of both worlds 🏆
 
 
 ---
+
 
 
 
