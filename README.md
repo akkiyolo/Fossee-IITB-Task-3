@@ -107,3 +107,23 @@ pip install -r requirements.txt
 
 # 3. run notebooks
 jupyter notebook notebooks/model_evaluation.ipynb
+```
+---
+
+## 📑 Design decisions & reproducibility notes
+
+Hybrid approach recommended: Use CodeBERT for large-scale static analysis (fast batch embedding + classifier) and CodeLlama for interactive hint generation.
+
+Normalization: We normalize variable names / whitespace to reduce superficial differences when using embeddings.
+
+Prompt-engineering: For CodeLlama, always ask the model to hint (Socratic style) not to reveal full code. Example prompt:
+
+> “Here is a student’s code: <code>. Generate a short reflective hint (1–2 lines) that guides the student to the mistake without providing a full solution.”
+
+
+
+Human-in-the-loop: All automated feedback should be periodically spot-checked by instructors and used as an aid, not as final grading.
+
+
+
+---
