@@ -149,7 +149,7 @@ The project uses a 0–5 rubric with three criteria:
 
 ## 📜 License & Credits
 
-License: MIT — see LICENSE
+License: Apache 2.0 — see LICENSE
 
 Author: Akshat Shukla
 
@@ -167,6 +167,7 @@ Credits: Hugging Face, Meta AI (CodeLlama), Microsoft (CodeBERT)
 
 
 ---
+
 
 
 
