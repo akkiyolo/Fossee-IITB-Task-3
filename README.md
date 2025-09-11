@@ -102,7 +102,7 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 # 3. run notebooks
-jupyter notebook notebooks/model_evaluation.ipynb
+jupyter notebook notebooks/code_analysis.ipynb
 ```
 ---
 
@@ -167,6 +167,7 @@ Credits: Hugging Face, Meta AI (CodeLlama), Microsoft (CodeBERT)
 
 
 ---
+
 
 
 
