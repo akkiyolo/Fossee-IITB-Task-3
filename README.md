@@ -94,7 +94,7 @@ student-competence-analysis-with-Open-Source-Models
 ```bash
 # 1. clone
 git clone <your-repo-url>
-cd student-competence-analysis
+cd student-competence-analysis-with-open-source-ai=models
 
 # 2. setup environment
 python -m venv .venv
@@ -167,6 +167,7 @@ Credits: Hugging Face, Meta AI (CodeLlama), Microsoft (CodeBERT)
 
 
 ---
+
 
 
 
